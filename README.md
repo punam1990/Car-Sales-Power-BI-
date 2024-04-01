@@ -1,4 +1,4 @@
-ackground: Our company operates as a car dealership, specializing in the sale of various car models. To enhance our sales tracking and analysis capabilities, there is a need for a comprehensive Car Sales Dashboard in Power BI.
+Background: Our company operates as a car dealership, specializing in the sale of various car models. To enhance our sales tracking and analysis capabilities, there is a need for a comprehensive Car Sales Dashboard in Power BI.
 
 Objective: This project aims to develop a dynamic and interactive Car Sales Dashboard using Power BI. The primary objective is to visualize critical KPIs related to our car sales, facilitating better understanding of sales performance over time and enabling data-driven decision-making.
 
